@@ -1,0 +1,33 @@
+{
+  "name": "socket.io-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manikanta-cse/socket.io-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manikanta-cse/socket.io-app/issues"
+  },
+  "homepage": "https://github.com/manikanta-cse/socket.io-app#readme",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "angular-cookies": "^1.6.6",
+    "angular-route": "^1.6.6",
+    "angular-sanitize": "^1.6.6",
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.2",
+    "font-awesome": "^4.7.0",
+    "ng-lodash": "^0.2.3",
+    "ngstorage": "^0.3.11",
+    "path": "^0.12.7",
+    "socket.io": "^2.0.4"
+  }
+}
